@@ -6,14 +6,6 @@ K_BRAKING = 0.0398
 K_CORNER = 0.000265
 K_FUEL_DRAG = 1.5e-9
 
-BASE_FRICTION = {
-    "Soft": 1.8,
-    "Medium": 1.7,
-    "Hard": 1.6,
-    "Intermediate": 1.2,
-    "Wet": 1.1,
-}
-
 WEATHER_FRICTION_KEY = {
     "dry": "dry_friction_multiplier",
     "cold": "cold_friction_multiplier",
@@ -39,7 +31,8 @@ def get_weather(race_time, conditions):
 
 
 def tyre_friction(compound, props, degradation, weather_cond):
-    base = BASE_FRICTION[compound]
+    # life_span is the initial friction value (not the hardcoded compound values from PDF)
+    base = props["life_span"]
     mult = props[WEATHER_FRICTION_KEY[weather_cond]]
     return max(0.0, (base - degradation) * mult)
 

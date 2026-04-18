@@ -1,5 +1,5 @@
 import math
-from simulator import BASE_FRICTION, GRAVITY, WEATHER_FRICTION_KEY, max_corner_speed
+from simulator import GRAVITY, WEATHER_FRICTION_KEY, max_corner_speed
 
 
 def _ceil_cm(value):
@@ -21,7 +21,7 @@ def _best_tyre_for_weather(level_data, weather_cond):
     for tset in available_sets:
         compound = tset["compound"]
         props = tyre_props_map[compound]
-        friction = BASE_FRICTION[compound] * props[WEATHER_FRICTION_KEY[weather_cond]]
+        friction = props["life_span"] * props[WEATHER_FRICTION_KEY[weather_cond]]
         if friction > best_friction:
             best_friction = friction
             best_compound = compound
@@ -79,7 +79,7 @@ def _optimize_level1(level_data):
     props = tyre_props_map[best_compound]
 
     # No degradation in Level 1: friction is constant
-    friction = (BASE_FRICTION[best_compound] - 0.0) * props[WEATHER_FRICTION_KEY[w_cond]]
+    friction = props["life_span"] * props[WEATHER_FRICTION_KEY[w_cond]]
 
     corner_max_speeds = {}
     for seg in segments:
