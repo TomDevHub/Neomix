@@ -12,14 +12,19 @@ def main():
         level_data = json.load(f)
 
     level_name = level_data["race"].get("name", "")
-    apply_deg = "Level 1" not in level_name
+    apply_deg = "Level 1" not in level_name and "Level 2" not in level_name
 
     strategy = optimize(level_data)
 
     result = simulate_race(level_data, strategy, apply_degradation=apply_deg)
 
+    tyre_id = strategy["initial_tyre_id"]
+    compound = next(
+        s["compound"] for s in level_data["available_sets"] if tyre_id in s["ids"]
+    )
+
     print(f"Race:          {level_name}")
-    print(f"Tyre:          {level_data['tyres']['properties']}")
+    print(f"Tyre:          {compound} (id={tyre_id})")
     print(f"Total time:    {result['total_time']:.3f} s")
     print(f"Base score:    {result['base_score']:,.0f}")
     print(f"Fuel bonus:    {result['fuel_bonus']:,.0f}")
