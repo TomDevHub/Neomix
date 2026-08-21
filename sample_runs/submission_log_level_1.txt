@@ -1,0 +1,4905 @@
+Initial tyre: 		SOFT
+Lap: 1
+================================================================================
+	Lap 1 Segment: [1] straight
+		entry speed				0
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			15.569953733319654	total time: 		15.569953733319654
+
+
+	Lap 1 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		18.447105270413296
+
+
+	Lap 1 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		22.76283257605376
+
+
+	Lap 1 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		31.994651214419164
+
+
+	Lap 1 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		34.785015738309475
+
+
+	Lap 1 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		38.60340929731727
+
+
+	Lap 1 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		50.92037360754484
+
+
+	Lap 1 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		53.947275538011255
+
+
+	Lap 1 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		64.24125698240722
+
+
+	Lap 1 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		69.00215417874706
+
+
+	Lap 1 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		71.61296877028826
+
+
+	Lap 1 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		83.1396659919393
+
+
+	Lap 1 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		86.7616659094585
+
+
+	Lap 1 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		96.31563595920784
+
+
+	Lap 1 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		99.58088368223935
+
+
+Lap: 2
+================================================================================
+	Lap 2 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		112.3180131596597
+
+
+	Lap 2 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		115.19516469675334
+
+
+	Lap 2 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		119.5108920023938
+
+
+	Lap 2 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		128.7427106407592
+
+
+	Lap 2 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		131.53307516464952
+
+
+	Lap 2 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		135.35146872365732
+
+
+	Lap 2 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		147.6684330338849
+
+
+	Lap 2 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		150.6953349643513
+
+
+	Lap 2 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		160.98931640874727
+
+
+	Lap 2 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		165.7502136050871
+
+
+	Lap 2 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		168.36102819662833
+
+
+	Lap 2 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		179.88772541827936
+
+
+	Lap 2 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		183.50972533579855
+
+
+	Lap 2 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		193.0636953855479
+
+
+	Lap 2 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		196.3289431085794
+
+
+Lap: 3
+================================================================================
+	Lap 3 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		209.06607258599976
+
+
+	Lap 3 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		211.94322412309342
+
+
+	Lap 3 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		216.25895142873387
+
+
+	Lap 3 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		225.49077006709928
+
+
+	Lap 3 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		228.28113459098958
+
+
+	Lap 3 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		232.09952814999738
+
+
+	Lap 3 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		244.41649246022496
+
+
+	Lap 3 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		247.44339439069137
+
+
+	Lap 3 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		257.73737583508733
+
+
+	Lap 3 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		262.4982730314272
+
+
+	Lap 3 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		265.1090876229684
+
+
+	Lap 3 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		276.6357848446194
+
+
+	Lap 3 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		280.2577847621386
+
+
+	Lap 3 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		289.81175481188797
+
+
+	Lap 3 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		293.0770025349195
+
+
+Lap: 4
+================================================================================
+	Lap 4 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		305.8141320123398
+
+
+	Lap 4 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		308.6912835494335
+
+
+	Lap 4 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		313.00701085507393
+
+
+	Lap 4 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		322.2388294934393
+
+
+	Lap 4 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		325.02919401732964
+
+
+	Lap 4 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		328.84758757633745
+
+
+	Lap 4 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		341.164551886565
+
+
+	Lap 4 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		344.1914538170314
+
+
+	Lap 4 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		354.48543526142737
+
+
+	Lap 4 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		359.2463324577672
+
+
+	Lap 4 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		361.8571470493084
+
+
+	Lap 4 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		373.38384427095946
+
+
+	Lap 4 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		377.00584418847865
+
+
+	Lap 4 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		386.559814238228
+
+
+	Lap 4 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		389.8250619612595
+
+
+Lap: 5
+================================================================================
+	Lap 5 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		402.56219143867986
+
+
+	Lap 5 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		405.4393429757735
+
+
+	Lap 5 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		409.75507028141396
+
+
+	Lap 5 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		418.98688891977935
+
+
+	Lap 5 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		421.7772534436697
+
+
+	Lap 5 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		425.5956470026775
+
+
+	Lap 5 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		437.912611312905
+
+
+	Lap 5 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		440.93951324337144
+
+
+	Lap 5 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		451.2334946877674
+
+
+	Lap 5 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		455.99439188410724
+
+
+	Lap 5 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		458.60520647564846
+
+
+	Lap 5 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		470.1319036972995
+
+
+	Lap 5 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		473.7539036148187
+
+
+	Lap 5 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		483.30787366456804
+
+
+	Lap 5 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		486.57312138759954
+
+
+Lap: 6
+================================================================================
+	Lap 6 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		499.3102508650199
+
+
+	Lap 6 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		502.18740240211355
+
+
+	Lap 6 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		506.503129707754
+
+
+	Lap 6 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		515.7349483461194
+
+
+	Lap 6 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		518.5253128700097
+
+
+	Lap 6 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		522.3437064290174
+
+
+	Lap 6 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		534.660670739245
+
+
+	Lap 6 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		537.6875726697115
+
+
+	Lap 6 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		547.9815541141074
+
+
+	Lap 6 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		552.7424513104473
+
+
+	Lap 6 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		555.3532659019885
+
+
+	Lap 6 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		566.8799631236395
+
+
+	Lap 6 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		570.5019630411588
+
+
+	Lap 6 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		580.0559330909081
+
+
+	Lap 6 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		583.3211808139396
+
+
+Lap: 7
+================================================================================
+	Lap 7 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		596.0583102913599
+
+
+	Lap 7 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		598.9354618284535
+
+
+	Lap 7 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		603.251189134094
+
+
+	Lap 7 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		612.4830077724595
+
+
+	Lap 7 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		615.2733722963497
+
+
+	Lap 7 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		619.0917658553575
+
+
+	Lap 7 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		631.4087301655851
+
+
+	Lap 7 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		634.4356320960516
+
+
+	Lap 7 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		644.7296135404475
+
+
+	Lap 7 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		649.4905107367874
+
+
+	Lap 7 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		652.1013253283286
+
+
+	Lap 7 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		663.6280225499796
+
+
+	Lap 7 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		667.2500224674989
+
+
+	Lap 7 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		676.8039925172482
+
+
+	Lap 7 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		680.0692402402797
+
+
+Lap: 8
+================================================================================
+	Lap 8 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		692.8063697177
+
+
+	Lap 8 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		695.6835212547936
+
+
+	Lap 8 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		699.9992485604341
+
+
+	Lap 8 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		709.2310671987996
+
+
+	Lap 8 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		712.0214317226898
+
+
+	Lap 8 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		715.8398252816976
+
+
+	Lap 8 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		728.1567895919252
+
+
+	Lap 8 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		731.1836915223917
+
+
+	Lap 8 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		741.4776729667876
+
+
+	Lap 8 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		746.2385701631275
+
+
+	Lap 8 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		748.8493847546687
+
+
+	Lap 8 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		760.3760819763197
+
+
+	Lap 8 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		763.998081893839
+
+
+	Lap 8 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		773.5520519435883
+
+
+	Lap 8 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		776.8172996666198
+
+
+Lap: 9
+================================================================================
+	Lap 9 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		789.5544291440401
+
+
+	Lap 9 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		792.4315806811337
+
+
+	Lap 9 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		796.7473079867742
+
+
+	Lap 9 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		805.9791266251397
+
+
+	Lap 9 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		808.7694911490299
+
+
+	Lap 9 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		812.5878847080377
+
+
+	Lap 9 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		824.9048490182653
+
+
+	Lap 9 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		827.9317509487317
+
+
+	Lap 9 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		838.2257323931277
+
+
+	Lap 9 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		842.9866295894676
+
+
+	Lap 9 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		845.5974441810088
+
+
+	Lap 9 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		857.1241414026598
+
+
+	Lap 9 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		860.746141320179
+
+
+	Lap 9 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		870.3001113699283
+
+
+	Lap 9 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		873.5653590929599
+
+
+Lap: 10
+================================================================================
+	Lap 10 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		886.3024885703802
+
+
+	Lap 10 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		889.1796401074738
+
+
+	Lap 10 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		893.4953674131143
+
+
+	Lap 10 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		902.7271860514797
+
+
+	Lap 10 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		905.51755057537
+
+
+	Lap 10 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		909.3359441343778
+
+
+	Lap 10 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		921.6529084446054
+
+
+	Lap 10 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		924.6798103750718
+
+
+	Lap 10 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		934.9737918194678
+
+
+	Lap 10 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		939.7346890158077
+
+
+	Lap 10 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		942.3455036073489
+
+
+	Lap 10 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		953.8722008289999
+
+
+	Lap 10 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		957.4942007465191
+
+
+	Lap 10 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		967.0481707962684
+
+
+	Lap 10 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		970.3134185193
+
+
+Lap: 11
+================================================================================
+	Lap 11 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		983.0505479967203
+
+
+	Lap 11 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		985.9276995338139
+
+
+	Lap 11 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		990.2434268394544
+
+
+	Lap 11 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		999.4752454778198
+
+
+	Lap 11 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1002.2656100017101
+
+
+	Lap 11 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1006.0840035607179
+
+
+	Lap 11 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1018.4009678709455
+
+
+	Lap 11 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1021.4278698014119
+
+
+	Lap 11 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1031.7218512458078
+
+
+	Lap 11 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1036.4827484421476
+
+
+	Lap 11 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1039.0935630336887
+
+
+	Lap 11 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1050.6202602553399
+
+
+	Lap 11 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1054.242260172859
+
+
+	Lap 11 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1063.7962302226083
+
+
+	Lap 11 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1067.0614779456398
+
+
+Lap: 12
+================================================================================
+	Lap 12 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1079.7986074230603
+
+
+	Lap 12 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1082.6757589601539
+
+
+	Lap 12 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1086.9914862657943
+
+
+	Lap 12 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1096.2233049041597
+
+
+	Lap 12 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1099.01366942805
+
+
+	Lap 12 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1102.8320629870577
+
+
+	Lap 12 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1115.1490272972853
+
+
+	Lap 12 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1118.1759292277518
+
+
+	Lap 12 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1128.4699106721478
+
+
+	Lap 12 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1133.2308078684875
+
+
+	Lap 12 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1135.8416224600287
+
+
+	Lap 12 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1147.3683196816796
+
+
+	Lap 12 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1150.9903195991988
+
+
+	Lap 12 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1160.544289648948
+
+
+	Lap 12 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1163.8095373719796
+
+
+Lap: 13
+================================================================================
+	Lap 13 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1176.5466668494
+
+
+	Lap 13 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1179.4238183864936
+
+
+	Lap 13 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1183.739545692134
+
+
+	Lap 13 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1192.9713643304995
+
+
+	Lap 13 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1195.7617288543897
+
+
+	Lap 13 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1199.5801224133975
+
+
+	Lap 13 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1211.897086723625
+
+
+	Lap 13 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1214.9239886540915
+
+
+	Lap 13 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1225.2179700984875
+
+
+	Lap 13 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1229.9788672948273
+
+
+	Lap 13 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1232.5896818863685
+
+
+	Lap 13 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1244.1163791080194
+
+
+	Lap 13 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1247.7383790255385
+
+
+	Lap 13 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1257.2923490752878
+
+
+	Lap 13 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1260.5575967983193
+
+
+Lap: 14
+================================================================================
+	Lap 14 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1273.2947262757398
+
+
+	Lap 14 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1276.1718778128334
+
+
+	Lap 14 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1280.4876051184738
+
+
+	Lap 14 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1289.7194237568392
+
+
+	Lap 14 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1292.5097882807295
+
+
+	Lap 14 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1296.3281818397372
+
+
+	Lap 14 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1308.6451461499648
+
+
+	Lap 14 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1311.6720480804313
+
+
+	Lap 14 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1321.9660295248273
+
+
+	Lap 14 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1326.726926721167
+
+
+	Lap 14 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1329.3377413127082
+
+
+	Lap 14 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1340.8644385343591
+
+
+	Lap 14 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1344.4864384518783
+
+
+	Lap 14 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1354.0404085016276
+
+
+	Lap 14 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1357.305656224659
+
+
+Lap: 15
+================================================================================
+	Lap 15 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1370.0427857020795
+
+
+	Lap 15 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1372.9199372391731
+
+
+	Lap 15 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1377.2356645448135
+
+
+	Lap 15 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1386.467483183179
+
+
+	Lap 15 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1389.2578477070692
+
+
+	Lap 15 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1393.076241266077
+
+
+	Lap 15 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1405.3932055763046
+
+
+	Lap 15 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1408.420107506771
+
+
+	Lap 15 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1418.714088951167
+
+
+	Lap 15 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1423.4749861475068
+
+
+	Lap 15 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1426.085800739048
+
+
+	Lap 15 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1437.6124979606989
+
+
+	Lap 15 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1441.234497878218
+
+
+	Lap 15 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1450.7884679279673
+
+
+	Lap 15 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1454.0537156509988
+
+
+Lap: 16
+================================================================================
+	Lap 16 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1466.7908451284193
+
+
+	Lap 16 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1469.6679966655129
+
+
+	Lap 16 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1473.9837239711533
+
+
+	Lap 16 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1483.2155426095187
+
+
+	Lap 16 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1486.005907133409
+
+
+	Lap 16 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1489.8243006924167
+
+
+	Lap 16 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1502.1412650026443
+
+
+	Lap 16 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1505.1681669331108
+
+
+	Lap 16 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1515.4621483775068
+
+
+	Lap 16 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1520.2230455738465
+
+
+	Lap 16 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1522.8338601653877
+
+
+	Lap 16 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1534.3605573870386
+
+
+	Lap 16 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1537.9825573045578
+
+
+	Lap 16 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1547.536527354307
+
+
+	Lap 16 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1550.8017750773386
+
+
+Lap: 17
+================================================================================
+	Lap 17 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1563.538904554759
+
+
+	Lap 17 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1566.4160560918526
+
+
+	Lap 17 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1570.731783397493
+
+
+	Lap 17 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1579.9636020358585
+
+
+	Lap 17 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1582.7539665597487
+
+
+	Lap 17 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1586.5723601187565
+
+
+	Lap 17 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1598.889324428984
+
+
+	Lap 17 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1601.9162263594505
+
+
+	Lap 17 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1612.2102078038465
+
+
+	Lap 17 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1616.9711050001863
+
+
+	Lap 17 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1619.5819195917275
+
+
+	Lap 17 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1631.1086168133784
+
+
+	Lap 17 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1634.7306167308975
+
+
+	Lap 17 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1644.2845867806468
+
+
+	Lap 17 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1647.5498345036783
+
+
+Lap: 18
+================================================================================
+	Lap 18 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1660.2869639810988
+
+
+	Lap 18 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1663.1641155181924
+
+
+	Lap 18 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1667.4798428238328
+
+
+	Lap 18 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1676.7116614621982
+
+
+	Lap 18 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1679.5020259860885
+
+
+	Lap 18 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1683.3204195450962
+
+
+	Lap 18 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1695.6373838553238
+
+
+	Lap 18 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1698.6642857857903
+
+
+	Lap 18 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1708.9582672301863
+
+
+	Lap 18 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1713.719164426526
+
+
+	Lap 18 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1716.3299790180672
+
+
+	Lap 18 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1727.8566762397181
+
+
+	Lap 18 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1731.4786761572373
+
+
+	Lap 18 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1741.0326462069866
+
+
+	Lap 18 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1744.297893930018
+
+
+Lap: 19
+================================================================================
+	Lap 19 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1757.0350234074385
+
+
+	Lap 19 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1759.9121749445321
+
+
+	Lap 19 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1764.2279022501725
+
+
+	Lap 19 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1773.459720888538
+
+
+	Lap 19 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1776.2500854124282
+
+
+	Lap 19 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1780.068478971436
+
+
+	Lap 19 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1792.3854432816636
+
+
+	Lap 19 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1795.41234521213
+
+
+	Lap 19 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1805.706326656526
+
+
+	Lap 19 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1810.4672238528658
+
+
+	Lap 19 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1813.078038444407
+
+
+	Lap 19 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1824.6047356660579
+
+
+	Lap 19 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1828.226735583577
+
+
+	Lap 19 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1837.7807056333263
+
+
+	Lap 19 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1841.0459533563578
+
+
+Lap: 20
+================================================================================
+	Lap 20 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1853.7830828337783
+
+
+	Lap 20 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1856.6602343708719
+
+
+	Lap 20 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1860.9759616765123
+
+
+	Lap 20 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1870.2077803148777
+
+
+	Lap 20 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1872.998144838768
+
+
+	Lap 20 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1876.8165383977757
+
+
+	Lap 20 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1889.1335027080033
+
+
+	Lap 20 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1892.1604046384698
+
+
+	Lap 20 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1902.4543860828658
+
+
+	Lap 20 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		1907.2152832792056
+
+
+	Lap 20 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		1909.8260978707467
+
+
+	Lap 20 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		1921.3527950923976
+
+
+	Lap 20 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		1924.9747950099168
+
+
+	Lap 20 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		1934.528765059666
+
+
+	Lap 20 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		1937.7940127826976
+
+
+Lap: 21
+================================================================================
+	Lap 21 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		1950.531142260118
+
+
+	Lap 21 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		1953.4082937972116
+
+
+	Lap 21 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		1957.724021102852
+
+
+	Lap 21 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		1966.9558397412175
+
+
+	Lap 21 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		1969.7462042651077
+
+
+	Lap 21 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		1973.5645978241155
+
+
+	Lap 21 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		1985.881562134343
+
+
+	Lap 21 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		1988.9084640648096
+
+
+	Lap 21 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		1999.2024455092055
+
+
+	Lap 21 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2003.9633427055453
+
+
+	Lap 21 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2006.5741572970865
+
+
+	Lap 21 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2018.1008545187374
+
+
+	Lap 21 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2021.7228544362565
+
+
+	Lap 21 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2031.2768244860058
+
+
+	Lap 21 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2034.5420722090373
+
+
+Lap: 22
+================================================================================
+	Lap 22 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2047.2792016864578
+
+
+	Lap 22 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2050.1563532235514
+
+
+	Lap 22 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2054.4720805291918
+
+
+	Lap 22 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2063.703899167557
+
+
+	Lap 22 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2066.4942636914475
+
+
+	Lap 22 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2070.3126572504552
+
+
+	Lap 22 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2082.6296215606826
+
+
+	Lap 22 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2085.656523491149
+
+
+	Lap 22 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2095.950504935545
+
+
+	Lap 22 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2100.711402131885
+
+
+	Lap 22 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2103.322216723426
+
+
+	Lap 22 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2114.848913945077
+
+
+	Lap 22 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2118.4709138625963
+
+
+	Lap 22 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2128.0248839123456
+
+
+	Lap 22 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2131.290131635377
+
+
+Lap: 23
+================================================================================
+	Lap 23 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2144.027261112797
+
+
+	Lap 23 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2146.9044126498907
+
+
+	Lap 23 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2151.220139955531
+
+
+	Lap 23 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2160.4519585938965
+
+
+	Lap 23 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2163.242323117787
+
+
+	Lap 23 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2167.0607166767945
+
+
+	Lap 23 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2179.377680987022
+
+
+	Lap 23 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2182.4045829174884
+
+
+	Lap 23 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2192.698564361884
+
+
+	Lap 23 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2197.459461558224
+
+
+	Lap 23 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2200.0702761497655
+
+
+	Lap 23 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2211.5969733714164
+
+
+	Lap 23 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2215.2189732889356
+
+
+	Lap 23 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2224.772943338685
+
+
+	Lap 23 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2228.038191061716
+
+
+Lap: 24
+================================================================================
+	Lap 24 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2240.7753205391364
+
+
+	Lap 24 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2243.65247207623
+
+
+	Lap 24 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2247.9681993818704
+
+
+	Lap 24 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2257.200018020236
+
+
+	Lap 24 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2259.990382544126
+
+
+	Lap 24 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2263.808776103134
+
+
+	Lap 24 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2276.125740413361
+
+
+	Lap 24 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2279.1526423438277
+
+
+	Lap 24 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2289.4466237882234
+
+
+	Lap 24 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2294.2075209845634
+
+
+	Lap 24 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2296.818335576105
+
+
+	Lap 24 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2308.3450327977557
+
+
+	Lap 24 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2311.967032715275
+
+
+	Lap 24 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2321.521002765024
+
+
+	Lap 24 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2324.7862504880554
+
+
+Lap: 25
+================================================================================
+	Lap 25 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2337.5233799654757
+
+
+	Lap 25 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2340.4005315025693
+
+
+	Lap 25 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2344.7162588082097
+
+
+	Lap 25 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2353.948077446575
+
+
+	Lap 25 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2356.7384419704654
+
+
+	Lap 25 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2360.556835529473
+
+
+	Lap 25 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2372.8737998397005
+
+
+	Lap 25 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2375.900701770167
+
+
+	Lap 25 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2386.1946832145627
+
+
+	Lap 25 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2390.9555804109027
+
+
+	Lap 25 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2393.566395002444
+
+
+	Lap 25 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2405.093092224095
+
+
+	Lap 25 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2408.715092141614
+
+
+	Lap 25 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2418.2690621913634
+
+
+	Lap 25 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2421.5343099143947
+
+
+Lap: 26
+================================================================================
+	Lap 26 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2434.271439391815
+
+
+	Lap 26 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2437.1485909289086
+
+
+	Lap 26 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2441.464318234549
+
+
+	Lap 26 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2450.6961368729144
+
+
+	Lap 26 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2453.4865013968047
+
+
+	Lap 26 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2457.3048949558124
+
+
+	Lap 26 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2469.62185926604
+
+
+	Lap 26 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2472.6487611965063
+
+
+	Lap 26 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2482.942742640902
+
+
+	Lap 26 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2487.703639837242
+
+
+	Lap 26 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2490.3144544287834
+
+
+	Lap 26 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2501.8411516504343
+
+
+	Lap 26 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2505.4631515679534
+
+
+	Lap 26 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2515.0171216177027
+
+
+	Lap 26 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2518.282369340734
+
+
+Lap: 27
+================================================================================
+	Lap 27 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2531.0194988181543
+
+
+	Lap 27 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2533.896650355248
+
+
+	Lap 27 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2538.2123776608883
+
+
+	Lap 27 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2547.4441962992537
+
+
+	Lap 27 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2550.234560823144
+
+
+	Lap 27 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2554.0529543821517
+
+
+	Lap 27 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2566.369918692379
+
+
+	Lap 27 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2569.3968206228456
+
+
+	Lap 27 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2579.6908020672413
+
+
+	Lap 27 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2584.4516992635813
+
+
+	Lap 27 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2587.0625138551227
+
+
+	Lap 27 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2598.5892110767736
+
+
+	Lap 27 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2602.2112109942927
+
+
+	Lap 27 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2611.765181044042
+
+
+	Lap 27 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2615.0304287670733
+
+
+Lap: 28
+================================================================================
+	Lap 28 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2627.7675582444936
+
+
+	Lap 28 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2630.644709781587
+
+
+	Lap 28 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2634.9604370872275
+
+
+	Lap 28 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2644.192255725593
+
+
+	Lap 28 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2646.9826202494833
+
+
+	Lap 28 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2650.801013808491
+
+
+	Lap 28 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2663.1179781187184
+
+
+	Lap 28 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2666.144880049185
+
+
+	Lap 28 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2676.4388614935806
+
+
+	Lap 28 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2681.1997586899206
+
+
+	Lap 28 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2683.810573281462
+
+
+	Lap 28 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2695.337270503113
+
+
+	Lap 28 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2698.959270420632
+
+
+	Lap 28 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2708.5132404703813
+
+
+	Lap 28 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2711.7784881934126
+
+
+Lap: 29
+================================================================================
+	Lap 29 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2724.515617670833
+
+
+	Lap 29 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2727.3927692079264
+
+
+	Lap 29 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2731.708496513567
+
+
+	Lap 29 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2740.9403151519323
+
+
+	Lap 29 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2743.7306796758226
+
+
+	Lap 29 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2747.5490732348303
+
+
+	Lap 29 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2759.8660375450577
+
+
+	Lap 29 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2762.892939475524
+
+
+	Lap 29 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2773.18692091992
+
+
+	Lap 29 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2777.94781811626
+
+
+	Lap 29 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2780.5586327078013
+
+
+	Lap 29 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2792.085329929452
+
+
+	Lap 29 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2795.7073298469713
+
+
+	Lap 29 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2805.2612998967206
+
+
+	Lap 29 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2808.526547619752
+
+
+Lap: 30
+================================================================================
+	Lap 30 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2821.263677097172
+
+
+	Lap 30 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2824.1408286342657
+
+
+	Lap 30 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2828.456555939906
+
+
+	Lap 30 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2837.6883745782716
+
+
+	Lap 30 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2840.478739102162
+
+
+	Lap 30 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2844.2971326611696
+
+
+	Lap 30 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2856.614096971397
+
+
+	Lap 30 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2859.6409989018634
+
+
+	Lap 30 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2869.934980346259
+
+
+	Lap 30 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2874.695877542599
+
+
+	Lap 30 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2877.3066921341406
+
+
+	Lap 30 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2888.8333893557915
+
+
+	Lap 30 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2892.4553892733106
+
+
+	Lap 30 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2902.00935932306
+
+
+	Lap 30 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		2905.274607046091
+
+
+Lap: 31
+================================================================================
+	Lap 31 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		2918.0117365235114
+
+
+	Lap 31 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		2920.888888060605
+
+
+	Lap 31 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		2925.2046153662454
+
+
+	Lap 31 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		2934.436434004611
+
+
+	Lap 31 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		2937.226798528501
+
+
+	Lap 31 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		2941.045192087509
+
+
+	Lap 31 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		2953.3621563977363
+
+
+	Lap 31 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		2956.3890583282027
+
+
+	Lap 31 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		2966.6830397725985
+
+
+	Lap 31 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		2971.4439369689385
+
+
+	Lap 31 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		2974.05475156048
+
+
+	Lap 31 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		2985.581448782131
+
+
+	Lap 31 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		2989.20344869965
+
+
+	Lap 31 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		2998.757418749399
+
+
+	Lap 31 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3002.0226664724305
+
+
+Lap: 32
+================================================================================
+	Lap 32 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3014.7597959498507
+
+
+	Lap 32 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3017.6369474869443
+
+
+	Lap 32 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3021.9526747925847
+
+
+	Lap 32 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3031.18449343095
+
+
+	Lap 32 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3033.9748579548404
+
+
+	Lap 32 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3037.793251513848
+
+
+	Lap 32 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3050.1102158240756
+
+
+	Lap 32 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3053.137117754542
+
+
+	Lap 32 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3063.4310991989378
+
+
+	Lap 32 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3068.191996395278
+
+
+	Lap 32 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3070.802810986819
+
+
+	Lap 32 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3082.32950820847
+
+
+	Lap 32 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3085.951508125989
+
+
+	Lap 32 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3095.5054781757385
+
+
+	Lap 32 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3098.77072589877
+
+
+Lap: 33
+================================================================================
+	Lap 33 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3111.50785537619
+
+
+	Lap 33 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3114.3850069132836
+
+
+	Lap 33 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3118.700734218924
+
+
+	Lap 33 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3127.9325528572895
+
+
+	Lap 33 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3130.7229173811797
+
+
+	Lap 33 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3134.5413109401875
+
+
+	Lap 33 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3146.858275250415
+
+
+	Lap 33 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3149.8851771808813
+
+
+	Lap 33 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3160.179158625277
+
+
+	Lap 33 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3164.940055821617
+
+
+	Lap 33 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3167.5508704131585
+
+
+	Lap 33 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3179.0775676348094
+
+
+	Lap 33 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3182.6995675523285
+
+
+	Lap 33 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3192.253537602078
+
+
+	Lap 33 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3195.518785325109
+
+
+Lap: 34
+================================================================================
+	Lap 34 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3208.2559148025293
+
+
+	Lap 34 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3211.133066339623
+
+
+	Lap 34 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3215.4487936452633
+
+
+	Lap 34 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3224.6806122836288
+
+
+	Lap 34 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3227.470976807519
+
+
+	Lap 34 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3231.289370366527
+
+
+	Lap 34 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3243.606334676754
+
+
+	Lap 34 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3246.6332366072206
+
+
+	Lap 34 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3256.9272180516164
+
+
+	Lap 34 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3261.6881152479564
+
+
+	Lap 34 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3264.2989298394978
+
+
+	Lap 34 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3275.8256270611487
+
+
+	Lap 34 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3279.447626978668
+
+
+	Lap 34 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3289.001597028417
+
+
+	Lap 34 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3292.2668447514484
+
+
+Lap: 35
+================================================================================
+	Lap 35 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3305.0039742288686
+
+
+	Lap 35 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3307.881125765962
+
+
+	Lap 35 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3312.1968530716026
+
+
+	Lap 35 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3321.428671709968
+
+
+	Lap 35 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3324.2190362338583
+
+
+	Lap 35 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3328.037429792866
+
+
+	Lap 35 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3340.3543941030935
+
+
+	Lap 35 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3343.38129603356
+
+
+	Lap 35 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3353.6752774779557
+
+
+	Lap 35 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3358.4361746742957
+
+
+	Lap 35 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3361.046989265837
+
+
+	Lap 35 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3372.573686487488
+
+
+	Lap 35 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3376.195686405007
+
+
+	Lap 35 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3385.7496564547564
+
+
+	Lap 35 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3389.0149041777877
+
+
+Lap: 36
+================================================================================
+	Lap 36 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3401.752033655208
+
+
+	Lap 36 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3404.6291851923015
+
+
+	Lap 36 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3408.944912497942
+
+
+	Lap 36 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3418.1767311363074
+
+
+	Lap 36 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3420.9670956601976
+
+
+	Lap 36 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3424.7854892192054
+
+
+	Lap 36 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3437.1024535294328
+
+
+	Lap 36 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3440.129355459899
+
+
+	Lap 36 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3450.423336904295
+
+
+	Lap 36 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3455.184234100635
+
+
+	Lap 36 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3457.7950486921764
+
+
+	Lap 36 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3469.3217459138273
+
+
+	Lap 36 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3472.9437458313464
+
+
+	Lap 36 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3482.4977158810957
+
+
+	Lap 36 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3485.762963604127
+
+
+Lap: 37
+================================================================================
+	Lap 37 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3498.500093081547
+
+
+	Lap 37 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3501.377244618641
+
+
+	Lap 37 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3505.692971924281
+
+
+	Lap 37 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3514.9247905626466
+
+
+	Lap 37 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3517.715155086537
+
+
+	Lap 37 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3521.5335486455447
+
+
+	Lap 37 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3533.850512955772
+
+
+	Lap 37 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3536.8774148862385
+
+
+	Lap 37 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3547.1713963306343
+
+
+	Lap 37 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3551.9322935269743
+
+
+	Lap 37 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3554.5431081185156
+
+
+	Lap 37 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3566.0698053401666
+
+
+	Lap 37 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3569.6918052576857
+
+
+	Lap 37 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3579.245775307435
+
+
+	Lap 37 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3582.5110230304663
+
+
+Lap: 38
+================================================================================
+	Lap 38 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3595.2481525078865
+
+
+	Lap 38 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3598.12530404498
+
+
+	Lap 38 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3602.4410313506205
+
+
+	Lap 38 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3611.672849988986
+
+
+	Lap 38 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3614.463214512876
+
+
+	Lap 38 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3618.281608071884
+
+
+	Lap 38 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3630.5985723821113
+
+
+	Lap 38 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3633.625474312578
+
+
+	Lap 38 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3643.9194557569735
+
+
+	Lap 38 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3648.6803529533136
+
+
+	Lap 38 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3651.291167544855
+
+
+	Lap 38 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3662.817864766506
+
+
+	Lap 38 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3666.439864684025
+
+
+	Lap 38 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3675.9938347337743
+
+
+	Lap 38 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3679.2590824568056
+
+
+Lap: 39
+================================================================================
+	Lap 39 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3691.996211934226
+
+
+	Lap 39 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3694.8733634713194
+
+
+	Lap 39 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3699.18909077696
+
+
+	Lap 39 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3708.4209094153252
+
+
+	Lap 39 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3711.2112739392155
+
+
+	Lap 39 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3715.0296674982233
+
+
+	Lap 39 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3727.3466318084506
+
+
+	Lap 39 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3730.373533738917
+
+
+	Lap 39 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3740.667515183313
+
+
+	Lap 39 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3745.428412379653
+
+
+	Lap 39 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3748.0392269711942
+
+
+	Lap 39 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3759.565924192845
+
+
+	Lap 39 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3763.1879241103643
+
+
+	Lap 39 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3772.7418941601136
+
+
+	Lap 39 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3776.007141883145
+
+
+Lap: 40
+================================================================================
+	Lap 40 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3788.744271360565
+
+
+	Lap 40 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3791.6214228976587
+
+
+	Lap 40 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3795.937150203299
+
+
+	Lap 40 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3805.1689688416645
+
+
+	Lap 40 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3807.959333365555
+
+
+	Lap 40 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3811.7777269245626
+
+
+	Lap 40 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3824.09469123479
+
+
+	Lap 40 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3827.1215931652564
+
+
+	Lap 40 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3837.415574609652
+
+
+	Lap 40 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3842.176471805992
+
+
+	Lap 40 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3844.7872863975335
+
+
+	Lap 40 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3856.3139836191845
+
+
+	Lap 40 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3859.9359835367036
+
+
+	Lap 40 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3869.489953586453
+
+
+	Lap 40 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3872.755201309484
+
+
+Lap: 41
+================================================================================
+	Lap 41 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3885.4923307869044
+
+
+	Lap 41 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3888.369482323998
+
+
+	Lap 41 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3892.6852096296384
+
+
+	Lap 41 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3901.917028268004
+
+
+	Lap 41 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		3904.707392791894
+
+
+	Lap 41 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		3908.525786350902
+
+
+	Lap 41 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		3920.8427506611292
+
+
+	Lap 41 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		3923.8696525915957
+
+
+	Lap 41 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		3934.1636340359914
+
+
+	Lap 41 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		3938.9245312323314
+
+
+	Lap 41 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		3941.535345823873
+
+
+	Lap 41 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		3953.0620430455238
+
+
+	Lap 41 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		3956.684042963043
+
+
+	Lap 41 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		3966.238013012792
+
+
+	Lap 41 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		3969.5032607358235
+
+
+Lap: 42
+================================================================================
+	Lap 42 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		3982.2403902132437
+
+
+	Lap 42 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		3985.1175417503373
+
+
+	Lap 42 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		3989.4332690559777
+
+
+	Lap 42 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		3998.665087694343
+
+
+	Lap 42 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		4001.4554522182334
+
+
+	Lap 42 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		4005.273845777241
+
+
+	Lap 42 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		4017.5908100874685
+
+
+	Lap 42 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		4020.617712017935
+
+
+	Lap 42 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		4030.9116934623307
+
+
+	Lap 42 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		4035.6725906586707
+
+
+	Lap 42 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		4038.283405250212
+
+
+	Lap 42 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		4049.810102471863
+
+
+	Lap 42 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		4053.432102389382
+
+
+	Lap 42 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		4062.9860724391315
+
+
+	Lap 42 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		4066.2513201621628
+
+
+Lap: 43
+================================================================================
+	Lap 43 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		4078.988449639583
+
+
+	Lap 43 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		4081.8656011766766
+
+
+	Lap 43 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		4086.181328482317
+
+
+	Lap 43 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		4095.4131471206824
+
+
+	Lap 43 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		4098.203511644573
+
+
+	Lap 43 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		4102.021905203581
+
+
+	Lap 43 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		4114.338869513808
+
+
+	Lap 43 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		4117.365771444274
+
+
+	Lap 43 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		4127.6597528886705
+
+
+	Lap 43 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		4132.4206500850105
+
+
+	Lap 43 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		4135.031464676552
+
+
+	Lap 43 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		4146.558161898203
+
+
+	Lap 43 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		4150.180161815722
+
+
+	Lap 43 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		4159.734131865472
+
+
+	Lap 43 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		4162.999379588503
+
+
+Lap: 44
+================================================================================
+	Lap 44 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		4175.736509065923
+
+
+	Lap 44 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		4178.613660603017
+
+
+	Lap 44 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		4182.929387908657
+
+
+	Lap 44 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		4192.161206547023
+
+
+	Lap 44 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		4194.951571070913
+
+
+	Lap 44 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		4198.769964629921
+
+
+	Lap 44 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		4211.086928940148
+
+
+	Lap 44 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		4214.113830870614
+
+
+	Lap 44 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		4224.40781231501
+
+
+	Lap 44 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		4229.16870951135
+
+
+	Lap 44 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		4231.779524102892
+
+
+	Lap 44 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		4243.306221324543
+
+
+	Lap 44 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		4246.928221242062
+
+
+	Lap 44 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		4256.482191291811
+
+
+	Lap 44 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		4259.747439014843
+
+
+Lap: 45
+================================================================================
+	Lap 45 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		4272.484568492263
+
+
+	Lap 45 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		4275.361720029357
+
+
+	Lap 45 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		4279.677447334997
+
+
+	Lap 45 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		4288.909265973362
+
+
+	Lap 45 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		4291.699630497253
+
+
+	Lap 45 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		4295.51802405626
+
+
+	Lap 45 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		4307.834988366488
+
+
+	Lap 45 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		4310.861890296954
+
+
+	Lap 45 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		4321.15587174135
+
+
+	Lap 45 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		4325.91676893769
+
+
+	Lap 45 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		4328.527583529231
+
+
+	Lap 45 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		4340.054280750883
+
+
+	Lap 45 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		4343.676280668402
+
+
+	Lap 45 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		4353.230250718151
+
+
+	Lap 45 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		4356.4954984411825
+
+
+Lap: 46
+================================================================================
+	Lap 46 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		4369.232627918603
+
+
+	Lap 46 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		4372.109779455696
+
+
+	Lap 46 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		4376.425506761337
+
+
+	Lap 46 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		4385.657325399702
+
+
+	Lap 46 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		4388.447689923592
+
+
+	Lap 46 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		4392.2660834826
+
+
+	Lap 46 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		4404.5830477928275
+
+
+	Lap 46 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		4407.6099497232935
+
+
+	Lap 46 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		4417.90393116769
+
+
+	Lap 46 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		4422.66482836403
+
+
+	Lap 46 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		4425.275642955571
+
+
+	Lap 46 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		4436.8023401772225
+
+
+	Lap 46 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		4440.424340094742
+
+
+	Lap 46 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		4449.978310144491
+
+
+	Lap 46 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		4453.243557867522
+
+
+Lap: 47
+================================================================================
+	Lap 47 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		4465.980687344942
+
+
+	Lap 47 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		4468.857838882036
+
+
+	Lap 47 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		4473.173566187676
+
+
+	Lap 47 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		4482.405384826042
+
+
+	Lap 47 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		4485.195749349932
+
+
+	Lap 47 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		4489.01414290894
+
+
+	Lap 47 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		4501.331107219167
+
+
+	Lap 47 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		4504.358009149633
+
+
+	Lap 47 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		4514.6519905940295
+
+
+	Lap 47 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		4519.4128877903695
+
+
+	Lap 47 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		4522.023702381911
+
+
+	Lap 47 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		4533.550399603562
+
+
+	Lap 47 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		4537.172399521081
+
+
+	Lap 47 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		4546.726369570831
+
+
+	Lap 47 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		4549.991617293862
+
+
+Lap: 48
+================================================================================
+	Lap 48 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		4562.728746771282
+
+
+	Lap 48 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		4565.605898308376
+
+
+	Lap 48 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		4569.921625614016
+
+
+	Lap 48 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		4579.153444252382
+
+
+	Lap 48 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		4581.943808776272
+
+
+	Lap 48 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		4585.76220233528
+
+
+	Lap 48 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		4598.079166645507
+
+
+	Lap 48 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		4601.106068575973
+
+
+	Lap 48 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		4611.400050020369
+
+
+	Lap 48 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		4616.160947216709
+
+
+	Lap 48 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		4618.771761808251
+
+
+	Lap 48 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		4630.298459029902
+
+
+	Lap 48 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		4633.920458947421
+
+
+	Lap 48 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		4643.47442899717
+
+
+	Lap 48 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		4646.739676720202
+
+
+Lap: 49
+================================================================================
+	Lap 49 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		4659.476806197622
+
+
+	Lap 49 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		4662.353957734716
+
+
+	Lap 49 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		4666.669685040356
+
+
+	Lap 49 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		4675.901503678721
+
+
+	Lap 49 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		4678.691868202612
+
+
+	Lap 49 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		4682.510261761619
+
+
+	Lap 49 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		4694.827226071847
+
+
+	Lap 49 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		4697.854128002313
+
+
+	Lap 49 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		4708.148109446709
+
+
+	Lap 49 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		4712.909006643049
+
+
+	Lap 49 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		4715.51982123459
+
+
+	Lap 49 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		4727.046518456242
+
+
+	Lap 49 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		4730.668518373761
+
+
+	Lap 49 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		4740.22248842351
+
+
+	Lap 49 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		4743.4877361465415
+
+
+Lap: 50
+================================================================================
+	Lap 50 Segment: [1] straight
+		entry speed				35.21937989232633
+		brake point speed: 		90
+		exit speed: 			34.75659822249582 
+		segment time:  			12.737129477420353	total time: 		4756.224865623962
+
+
+	Lap 50 Segment: [2] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			2.8771515370936425	total time: 		4759.102017161055
+
+
+	Lap 50 Segment: [3] corner
+		entry speed				34.75659822249582
+		exit speed: 			34.75659822249582 
+		segment time:  			4.315727305640464	total time: 		4763.417744466696
+
+
+	Lap 50 Segment: [4] straight
+		entry speed				34.75659822249582
+		brake point speed: 		90
+		exit speed: 			34.04573100992252 
+		segment time:  			9.231818638365404	total time: 		4772.649563105061
+
+
+	Lap 50 Segment: [5] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			2.7903645238903096	total time: 		4775.439927628951
+
+
+	Lap 50 Segment: [6] corner
+		entry speed				34.04573100992252
+		exit speed: 			34.04573100992252 
+		segment time:  			3.818393559007792	total time: 		4779.258321187959
+
+
+	Lap 50 Segment: [7] straight
+		entry speed				34.04573100992252
+		brake point speed: 		90
+		exit speed: 			36.3407875533814 
+		segment time:  			12.316964310227567	total time: 		4791.5752854981865
+
+
+	Lap 50 Segment: [8] corner
+		entry speed				36.3407875533814
+		exit speed: 			36.3407875533814 
+		segment time:  			3.026901930466414	total time: 		4794.6021874286525
+
+
+	Lap 50 Segment: [9] straight
+		entry speed				36.3407875533814
+		brake point speed: 		90
+		exit speed: 			32.556888671984616 
+		segment time:  			10.293981444395962	total time: 		4804.896168873049
+
+
+	Lap 50 Segment: [10] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			4.760897196339845	total time: 		4809.657066069389
+
+
+	Lap 50 Segment: [11] corner
+		entry speed				32.556888671984616
+		exit speed: 			32.556888671984616 
+		segment time:  			2.610814591541205	total time: 		4812.26788066093
+
+
+	Lap 50 Segment: [12] straight
+		entry speed				32.556888671984616
+		brake point speed: 		90
+		exit speed: 			40.03313177856561 
+		segment time:  			11.526697221651034	total time: 		4823.7945778825815
+
+
+	Lap 50 Segment: [13] corner
+		entry speed				40.03313177856561
+		exit speed: 			40.03313177856561 
+		segment time:  			3.621999917519202	total time: 		4827.416577800101
+
+
+	Lap 50 Segment: [14] straight
+		entry speed				40.03313177856561
+		brake point speed: 		90
+		exit speed: 			35.21937989232633 
+		segment time:  			9.553970049749346	total time: 		4836.97054784985
+
+
+	Lap 50 Segment: [15] corner
+		entry speed				35.21937989232633
+		exit speed: 			35.21937989232633 
+		segment time:  			3.2652477230315013	total time: 		4840.235795572881
+
+
+===================================
+Final time:  	4840.235795572881
+Final Score: 	1715295.8122085338
+===================================

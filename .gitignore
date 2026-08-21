@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor / OS
+.claude/
+.vscode/
+.idea/
+.DS_Store
+
+# Generated strategy output
+solution.txt
